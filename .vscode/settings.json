@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "ctime": "cpp",
+    "ostream": "cpp",
+    "vector": "cpp"
+  }
+} // {
+//   "C_Cpp.errorSquiggles": "disabled",
+//   "files.associations": {
+//     "ostream": "cpp"
+//   }
+// }

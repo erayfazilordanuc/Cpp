@@ -1,0 +1,16 @@
+// {
+//   "configurations": [
+//     {
+//       "type": "java",
+//       "name": "BackendApplication",
+//       "request": "launch",
+//       "cwd": "${workspaceFolder}",
+//       "console": "integratedTerminal",
+//       "preLaunchTask": "Compile",
+//       "mainClass": "com.teknevia.BackendApplication",
+//       "projectName": "backend",
+//       "args": "--cache.warmup.disabled=true --spring.config.location=${workspaceFolder}/config/",
+//       "envFile": "${workspaceFolder}/config/local.env"
+//     }
+//   ]
+// }
